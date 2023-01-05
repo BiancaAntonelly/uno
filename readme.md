@@ -1,4 +1,4 @@
-# Uno
+# uno
 
 Vídeo de apresentação do projeto:
 https://www.loom.com/share/6dd991e2abef48618560d80ae4c8bfdb
