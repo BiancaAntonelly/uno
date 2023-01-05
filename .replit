@@ -1,4 +1,4 @@
-run = "uno bot_A bot_B"
+run = "./uno bot_A bot_B"
 hidden = ["main", "main-debug", "**/*.o", "**/*.d", ".ccls-cache", "Makefile"]
 
 [gitHubImport]
@@ -61,8 +61,3 @@ pattern = "**/*.{c,h}"
 
 [languages.c.languageServer]
 start = "ccls"
-
-[nix]
-
-[nix.channel]
-channel = "stable-22_05"
